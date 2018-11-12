@@ -48,5 +48,5 @@ CNN 알고리즘 기반의 KERAS 모델을 사용합니다.
 - environments-gpu.yml conda environment (Use TensorFlow with GPU)
 
 ## References
-	- NVIDIA model: https://devblogs.nvidia.com/parallelforall/deep-learning-self-driving-cars/
-	- Udacity Self-Driving Car Simulator: https://github.com/udacity/self-driving-car-sim
+- NVIDIA model: https://devblogs.nvidia.com/parallelforall/deep-learning-self-driving-cars/
+- Udacity Self-Driving Car Simulator: https://github.com/udacity/self-driving-car-sim
