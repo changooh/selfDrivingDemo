@@ -7,9 +7,12 @@
 
 ## Project Description
 
-유니티 시뮬레이터를 이용하여 자율주행 머신러닝 모델을 테스트한 직캠입니다.
+유다시티 시뮬레이터를 이용하여 자율주행 머신러닝 모델을 테스트한 직캠입니다.
 CNN 알고리즘 기반의 KERAS 모델을 사용합니다.
 
+|||
+|:--------:|:--------:|
+|![](images/model_graph1.gif)|![](images/model_graph2.gif)|
 
 ## Quick Start
 
