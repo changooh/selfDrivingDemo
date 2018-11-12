@@ -4,14 +4,10 @@
 유다시티 시뮬레이터를 이용하여 자율주행 머신러닝 모델을 테스트한 직캠입니다.
 CNN 알고리즘 기반의 KERAS 모델을 사용합니다.
 
-|Demo 직캠|
-|:--------:|
-|[![Demo 직캠](images/lake_track.png)](https://youtu.be/i0tPGenk2o0)|
-|[YouTube Link](https://youtu.be/i0tPGenk2o0)|
-
-|||
+|모델생성|모델주행|
 |:--------:|:--------:|
-|![](images/model_graph1.gif)|![](images/model_graph2.gif)|
+|![모델생성](images/model_graph1.gif)|![모델주행](images/model_graph2.gif)|
+
 
 ## Quick Start
 
@@ -48,6 +44,14 @@ CNN 알고리즘 기반의 KERAS 모델을 사용합니다.
 - model.h5 The model weights.
 - environments.yml conda environment (Use TensorFlow without GPU)
 - environments-gpu.yml conda environment (Use TensorFlow with GPU)
+
+## Self-driving Model Simulation
+
+|자율주행데모 직캠|
+|:--------:|
+|[![자율주행데모 직캠](images/lake_track.png)](https://youtu.be/i0tPGenk2o0)|
+|[YouTube Link](https://youtu.be/i0tPGenk2o0)|
+
 
 ## References
 - NVIDIA model: https://devblogs.nvidia.com/parallelforall/deep-learning-self-driving-cars/
