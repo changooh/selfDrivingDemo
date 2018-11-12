@@ -1,14 +1,13 @@
 
+## Project Description
+
+유다시티 시뮬레이터를 이용하여 자율주행 머신러닝 모델을 테스트한 직캠입니다.
+CNN 알고리즘 기반의 KERAS 모델을 사용합니다.
 
 |Demo 직캠|
 |:--------:|
 |[![Demo 직캠](images/lake_track.png)](https://youtu.be/i0tPGenk2o0)|
 |[YouTube Link](https://youtu.be/i0tPGenk2o0)|
-
-## Project Description
-
-유다시티 시뮬레이터를 이용하여 자율주행 머신러닝 모델을 테스트한 직캠입니다.
-CNN 알고리즘 기반의 KERAS 모델을 사용합니다.
 
 |||
 |:--------:|:--------:|
