@@ -2,7 +2,7 @@
 
 |Lake Track Self driving|
 |:--------:|
-|[![Lake Track Self driving](images/lake_track.png)](https://youtu.be/i0tPGenk2o0)|
+|[![Lake Track Self driving](images/lake_track_drivng.png)](https://youtu.be/i0tPGenk2o0)|
 |[YouTube Link](https://youtu.be/i0tPGenk2o0)|
 
 ## Project Description
