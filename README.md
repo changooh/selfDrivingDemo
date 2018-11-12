@@ -1,10 +1,9 @@
 
 
-|Lake Track|Jungle Track|
-|:--------:|:------------:|
-|[![Lake Track](images/lake_track.png)](https://youtu.be/hTPADovdyfA)|[![Jungle Track](images/jungle_track.png)](https://youtu.be/mZOc-zrbnR8)|
-|[YouTube Link](https://youtu.be/hTPADovdyfA)|[YouTube Link](https://youtu.be/mZOc-zrbnR8)|
-
+|Lake Track|
+|:--------:|
+|[![Lake Track](images/lake_track.png)](https://youtu.be/i0tPGenk2o0)|
+|[YouTube Link](https://youtu.be/i0tPGenk2o0)|
 ## Project Description
 
 In this project, I use a neural network to clone car driving behavior.  It is a supervised regression problem between the car steering angles and the road images in front of a car.  
